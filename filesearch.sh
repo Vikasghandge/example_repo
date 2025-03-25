@@ -1,3 +1,4 @@
+```
 echo " enter filename "
 read filename
 if [ -f $filename ]; then 
@@ -5,3 +6,4 @@ if [ -f $filename ]; then
 else
 	echo " file doestn't exist"
 fi
+```
